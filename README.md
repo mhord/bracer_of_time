@@ -9,7 +9,7 @@ For more information about how to set up the Arduino IDE to use the Simblee
 module, please check out the tutorial at https://learn.sparkfun.com/tutorials/simblee-concepts/setting-up-arduino.
 
 #### Contents of this repository
-Bracer of Time directory - This is the Arduino code.
+Bracer of Time directory - This is the Arduino code.  
 Emerald_half.stl - THis is the 3d printer file for the gemstone used in the 
 project.
 
